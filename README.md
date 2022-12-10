@@ -6,8 +6,10 @@
 ##2. Dragon Ball
 ![image](https://user-images.githubusercontent.com/103616768/206832436-c04d5407-6978-46bc-892e-bd60f1f27da6.png)
 
+
 ##3. Lucifer 
 ![image](https://user-images.githubusercontent.com/103616768/206832572-d6e053ec-14a9-4454-906b-dce6dc2d13d1.png)
+
 
 ##4. Ghost Fighter 
 ![image](https://user-images.githubusercontent.com/103616768/206832721-88693f67-f1a2-4409-8677-91d22bdde82d.png)
